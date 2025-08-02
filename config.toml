@@ -1,4 +1,4 @@
-baseURL = 'https://publicdomainrecipes.com'
+baseURL = 'http://katieball.me/my-recipies/.com'
 languageCode = 'en-us'
 title = 'Public Domain Recipes'
 theme = 'lugo'
